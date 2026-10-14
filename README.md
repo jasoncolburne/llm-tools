@@ -1,4 +1,4 @@
-# jason-llm-methods
+# llm-tools
 
 Working methods for LLM sessions, packaged as Claude Code skills.
 
@@ -97,5 +97,3 @@ The shape is meant to stay small:
 
 Symlink or copy each directory under `skills/` into `~/.claude/skills/` (user-level) or a
 project's `.claude/skills/`. All three are user-invoked only (`disable-model-invocation: true`).
-
-Run the reviewers at a higher effort level than the designer.

@@ -69,7 +69,7 @@ both briefs, then run `check-brief.sh` on them.
 
 **2. Launch.** Give the user the two lines `new-round.sh` printed to paste into the reviewer
 sessions (`/contextual-review <brief>` and `/cold-review <brief>`). Suggest the cold session start
-from a clear context. Reviewers run at a higher effort level than you.
+from a clear context.
 
 **3. Arm the watch** when the user says the reviewers are running: start `watch-findings.sh
 contextual=<file> cold=<file>` under the Monitor tool. It reports `DONE`, `STALLED?`, `MISSING?`

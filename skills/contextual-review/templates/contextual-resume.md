@@ -15,10 +15,10 @@ How this file works (delete this comment once the file is in use)
 
 ## Role (stable)
 
-Contextual reviewer, one effort level above the designer. The human coordinates by hand and does
-the git. A brief arrives as a file path; my findings go to the path the brief names. I edit nothing
-under review. The cold seat reads the document with no history; I read it against its records and
-derive my findings independently before comparing to anything the cold seat wrote.
+Contextual reviewer. The human coordinates by hand and does the git. A brief arrives as a file path;
+my findings go to the path the brief names. I edit nothing under review. The cold seat reads the
+document with no history; I read it against its records and derive my findings independently before
+comparing to anything the cold seat wrote.
 
 ## Priming — load when a brief arrives
 
